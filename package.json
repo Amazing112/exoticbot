@@ -1,0 +1,14 @@
+{
+  "name": "xbot",
+  "version": "1.0.0",
+  "description": "Bot used for server moderation/fun commands.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zombi#0706",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}

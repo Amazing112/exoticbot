@@ -1,0 +1,26 @@
+```Changelog for xBot Development;
+
+November 2, 2017
+  - Added more memes
+  - Edited a bit of the bot
+  - Started to setup a VPS
+  - Made bot ping itself after 300 seconds
+
+November 1, 2017
+  - Continued development
+  - Made a user-friendly config
+  - Added more simple Commands
+  - Added a `.memes` command
+
+October 31, 2017
+  - Started development
+  - Added basic Commands
+  - Added complex commands;
+      a) .kick (mod/admin only)
+      b) .ban (admin only)
+      c) .say (owner/high ranking only)
+      d) .8ball (example; .8ball am I cool?)
+  - Added .roastme Command
+    a) Has different roasts which it randomly chooses to roast with.
+
+xBot | Bot created by Zombi#0706 ```

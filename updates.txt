@@ -1,0 +1,28 @@
+```Future Updates planned for xBot;
+
+- More Commands
+- Economy Commands (Buy, Sell, Gamble, ETC.)
+- Advanced Moderation
+- Chat Logs
+- Public Bot Features
+- Website for bot configuration
+- VPS (host bot 24/7)
+- ROBLOX Features (.verify , .account)
+- Welcome/Leave Messages
+- Advanced Configuration
+- ModerationLogs
+- Webhook Features
+- AntiSpam
+- Anti NSFW (blocks nsfw, 18+ websites)
+- Mute/Unmute
+- Better Bot Avatar
+- Swear Filter (optional)
+- Word Filter
+- Leveling, Rankups
+- Warn
+- Link to ROBLOX
+- Better config
+
+These updates are planned to all be out by early December of 2017.
+
+xBot | Bot created by Zombi#0706```
